@@ -47,16 +47,15 @@ omr-evaluation-system/
 ├── runtime.txt # Python version specification
 └── README.md # Project documentation
 
+## 🚀 Quick Start
 
-🚀 Quick Start
-
-# Prerequisites
+### Prerequisites
 - Python 3.11+
 - Git
 
-# Local Installation
-```bash
-# Clone the repository
+  ### Local Installation
+
+#Clone the repository
 git clone https://github.com/alokgodhankar/omr-evaluation-system.git
 cd omr-evaluation-system
 
@@ -65,6 +64,7 @@ pip install -r requirements.txt
 
 # Run the application
 streamlit run web_app.py
+
 
 📈 Performance
 Processes 100 questions in under 10 seconds
